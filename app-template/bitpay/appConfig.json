@@ -27,9 +27,9 @@
   "androidVersion": "391000",
   "_extraCSS": null,
   "_enabledExtensions": {
-    "coinbase": true,
-    "glidera": true,
-    "debitcard": true,
-    "amazon": true
+    "coinbase": false,
+    "glidera": false,
+    "debitcard": false,
+    "amazon": false
   }
 }
