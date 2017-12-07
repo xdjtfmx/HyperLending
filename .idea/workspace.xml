@@ -2,88 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0da7339-7230-4f22-92a3-bf69a50e0c54" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/app-store/feature-graphic-1024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/app-store/icon-512x512.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/icon/drawable-hdpi-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/icon/drawable-ldpi-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/icon/drawable-mdpi-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/icon/drawable-xhdpi-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/icon/drawable-xxhdpi-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/icon/drawable-xxxhdpi-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-land-hdpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-land-ldpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-land-mdpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-land-xhdpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-land-xxhdpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-land-xxxhdpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-port-hdpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-port-ldpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-port-mdpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-port-xhdpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-port-xxhdpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/android/splash/drawable-port-xxxhdpi-screen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/app-store/icon-1024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-1024.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-40@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-50@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-60@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-60@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-72@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-76@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-83.5@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-small@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon-small@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/icon/icon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/splash/Default@2x~universal~anyany.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/splash/Default@2x~universal~comany.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/splash/Default@2x~universal~comcom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/splash/Default@3x~universal~anyany.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/splash/Default@3x~universal~anycom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/ios/splash/Default@3x~universal~comany.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/linux/512x512.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/mac/app.icns" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/mac/dmg-background.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/mac/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/mac/volume-icon.icns" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/Square150x150Logo.scale-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/Square150x150Logo.scale-240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/Square30x30Logo.scale-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/Square310x310Logo.scale-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/Square44x44Logo.scale-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/Square44x44Logo.scale-240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/Square70x70Logo.scale-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/Square71x71Logo.scale-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/Square71x71Logo.scale-240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/StoreLogo.scale-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/StoreLogo.scale-240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/Wide310x150Logo.scale-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/icon/Wide310x150Logo.scale-240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/splash/SplashScreen.scale-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/HyperLending/windows/splash/SplashScreenPhone.scale-240.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app-template/copay/img/128x128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app-template/copay/img/256x256.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app-template/copay/img/96x96.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/copay/img/16x16.png" afterPath="$PROJECT_DIR$/app-template/copay/img/16x16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/copay/img/24x24.png" afterPath="$PROJECT_DIR$/app-template/copay/img/24x24.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/copay/img/32x32.png" afterPath="$PROJECT_DIR$/app-template/copay/img/32x32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/copay/img/48x48.png" afterPath="$PROJECT_DIR$/app-template/copay/img/48x48.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/copay/img/64x64.png" afterPath="$PROJECT_DIR$/app-template/copay/img/64x64.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/copay/img/favicon.ico" afterPath="$PROJECT_DIR$/app-template/copay/img/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/copay/img/icon.png" afterPath="$PROJECT_DIR$/app-template/copay/img/icon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/copay/img/logo.ico" afterPath="$PROJECT_DIR$/app-template/copay/img/logo.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/copay/img/logo.png" afterPath="$PROJECT_DIR$/app-template/copay/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/bitpay/appConfig.json" afterPath="$PROJECT_DIR$/app-template/bitpay/appConfig.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/copay/appConfig.json" afterPath="$PROJECT_DIR$/app-template/copay/appConfig.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app-template/copay/sass/overrides.scss" afterPath="$PROJECT_DIR$/app-template/copay/sass/overrides.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/HyperLending/mac/app.icns" afterPath="$PROJECT_DIR$/resources/HyperLending/mac/app.icns" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/HyperLending/mac/logo.png" afterPath="$PROJECT_DIR$/resources/HyperLending/mac/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/controllers/tab-send.js" afterPath="$PROJECT_DIR$/src/js/controllers/tab-send.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/routes.js" afterPath="$PROJECT_DIR$/src/js/routes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/services/uxLanguage.js" afterPath="$PROJECT_DIR$/src/js/services/uxLanguage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/variables.scss" afterPath="$PROJECT_DIR$/src/sass/variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sass/views/tab-home.scss" afterPath="$PROJECT_DIR$/src/sass/views/tab-home.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/onboarding/welcome.html" afterPath="$PROJECT_DIR$/www/views/onboarding/welcome.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/tab-home.html" afterPath="$PROJECT_DIR$/www/views/tab-home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/tab-settings.html" afterPath="$PROJECT_DIR$/www/views/tab-settings.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -100,7 +34,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>logo-negative</find>
       <find>logo-hyperlending</find>
       <find>header-item</find>
       <find>bar-header</find>
@@ -130,6 +63,7 @@
       <find>tab-home</find>
       <find>favicon.ico</find>
       <find>language</find>
+      <find>logo.svg</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src</dir>
@@ -217,6 +151,29 @@
               <item name="copay" type="b2602c69:ProjectViewProjectNode" />
               <item name="copay" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="copay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copay" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copay" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copay" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copay" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -243,11 +200,11 @@
       <recent name="$PROJECT_DIR$/app-template/copay/img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app-template/copay" />
       <recent name="$PROJECT_DIR$/www/img/app" />
       <recent name="$PROJECT_DIR$/resources/HyperLending/mac" />
+      <recent name="$PROJECT_DIR$/app-template/copay/img" />
+      <recent name="$PROJECT_DIR$/app-template/copay" />
       <recent name="$PROJECT_DIR$/resources" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,12 +232,12 @@
       <workItem from="1512395094729" duration="204000" />
       <workItem from="1512457873850" duration="272000" />
       <workItem from="1512458699161" duration="12735000" />
-      <workItem from="1512609386583" duration="15836000" />
+      <workItem from="1512609386583" duration="16774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29047000" />
+    <option name="totallyTimeSpent" value="29985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -316,142 +273,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/google-services.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ionic.config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsdoc.conf.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/cordova-custom-config/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-367">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/controllers/copayers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webkitbuilds/HyperLending/osx64/HyperLending.app/Contents/Resources/app.nw/www/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="32" column="10023" lean-forward="false" selection-start-line="32" selection-start-column="10023" selection-end-line="32" selection-end-column="10023" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/cordova.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chrome-app/initial.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-637">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app-template/config-template.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app-template/copay/google-services.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app-template/apply.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app-template/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app-template/package-template.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/platforms.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/platforms/windows/package.windows.appxmanifest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/controllers/tab-home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="463" lean-forward="false" selection-start-line="3" selection-start-column="446" selection-end-line="3" selection-end-column="463" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/controllers/tab-settings.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -540,16 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/HyperLending/mac/app.icns">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/HyperLending/windows/icon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/HyperLending/windows/splash/SplashScreen.scale-100.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -578,31 +389,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app-template/copay/img/icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/img/app/icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/img/app/logo.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/img/app/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app-template/copay/img/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app-template/copay/sass/overrides.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-512">
@@ -623,14 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app-template/copay/appConfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -689,6 +467,151 @@
           <caret line="104" column="33" lean-forward="false" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseDerivation.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsdoc.conf.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionic.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/appConfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/copay/mac/volume-icon.icns">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/copay/mac/app.icns">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/HyperLending/mac/dmg-background.tiff">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/img/logo-negative.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/img/256x256.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/HyperLending/windows/icon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/img/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/img/logo.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/img/32x32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/img/24x24.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/img/16x16.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/img/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/HyperLending/mac/app.icns">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/img/logo.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/img/app/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/img/app/logo.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/img/app/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/img/app/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/img/64x64.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app-template/copay/img/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/HyperLending/mac/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
